@@ -3,6 +3,9 @@
 
 # programacion
 
+# tres para esto
+
+
 def sort_list(lista, eliminar_duplicados=False):
     """
     Ordena una lista de palabras alfabéticamente y las imprime, opcionalmente eliminando duplicados.
